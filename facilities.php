@@ -8,6 +8,13 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css">
 </head>
     <?php require('inc/links.php');?>
+    <style>
+      .pop:hover{
+        border-top-color: var(--teal) !important ;
+        transform       : scale(1.03);
+        transition      : all 0.3s;
+      }
+    </style>
     
 <body class="bg-light">
 <?php require('inc/header.php');?>
@@ -22,15 +29,75 @@
 <div class="container">
   <div class="row">
     <div class="col-lg-4 col-md-6 mb-5 px-4">
-      <div>
+        <div class="bg-white rounded shadow p-4 border-top border-4 border-dark pop">
+      <div class="d-flex align-items-center mb-2">
         <img src="images/facilities/IMG_41622.svg" width="40px">
-        <h5>Wifi</h5>
-        <p>Our offer free wifi for each roooms access internet</p>
+        <h5 class="m-0 ms-3">Wifi</h5>
+       </div>
+        <p> 
+          Our offer free wifi for each roooms access internet
+        </p>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6 mb-5 px-4">
+        <div class="bg-white rounded shadow p-4 border-top border-4 border-dark pop">
+      <div class="d-flex align-items-center mb-2">
+        <img src="images/facilities/IMG_43553.svg" width="40px">
+        <h5 class="m-0 ms-3">Wifi</h5>
+       </div>
+        <p> 
+          Our offer free wifi for each roooms access internet
+        </p>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6 mb-5 px-4">
+        <div class="bg-white rounded shadow p-4 border-top border-4 border-dark pop">
+      <div class="d-flex align-items-center mb-2">
+        <img src="images/facilities/IMG_47816.svg" width="40px">
+        <h5 class="m-0 ms-3">Wifi</h5>
+       </div>
+        <p> 
+          Our offer free wifi for each roooms access internet
+        </p>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6 mb-5 px-4">
+        <div class="bg-white rounded shadow p-4 border-top border-4 border-dark pop">
+      <div class="d-flex align-items-center mb-2">
+        <img src="images/facilities/IMG_49949.svg" width="40px">
+        <h5 class="m-0 ms-3">Wifi</h5>
+       </div>
+        <p> 
+          Our offer free wifi for each roooms access internet
+        </p>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6 mb-5 px-4">
+        <div class="bg-white rounded shadow p-4 border-top border-4 border-dark pop">
+      <div class="d-flex align-items-center mb-2">
+        <img src="images/facilities/IMG_41622.svg" width="40px">
+        <h5 class="m-0 ms-3">Wifi</h5>
+       </div>
+        <p> 
+          Our offer free wifi for each roooms access internet
+        </p>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6 mb-5 px-4">
+        <div class="bg-white rounded shadow p-4 border-top border-4 border-dark pop">
+      <div class="d-flex align-items-center mb-2">
+        <img src="images/facilities/IMG_96423.svg" width="40px">
+        <h5 class="m-0 ms-3">Wifi</h5>
+       </div>
+        <p> 
+          Our offer free wifi for each roooms access internet
+        </p>
+        </div>
       </div>
     </div>
-  </div>
+    </div>
 
-</div>
+
  <?php require('inc/footer.php');?>
 </body>
 </html>

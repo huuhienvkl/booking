@@ -132,6 +132,18 @@
                              Room heater
                            </span>
                   </div>
+                  <div class="guests mb-4">
+                    <h6 class="mb-1">Guests</h6>
+                    <span class="badge rounded-pill bg-light text-dark text-wrap">
+                        <!--   Note: Your details must be match with your ID (ID card , Passport ,Driving license ) 
+                           that will be require during check-in. --->
+                           5 Adults 
+                         </span>
+                         <span class="badge rounded-pill bg-light text-dark text-wrap">
+                           4 Childrens
+                         </span>
+                         
+                  </div>
                   <div class="Rating mb-4">
                     <h6 class="mb-1">Rating</h6>
                     <span class="badge rounded-pill bg-light">
@@ -190,6 +202,18 @@
                          Room heater
                        </span>
               </div>
+              <div class="guests mb-4">
+                    <h6 class="mb-1">Guests</h6>
+                    <span class="badge rounded-pill bg-light text-dark text-wrap">
+                        <!--   Note: Your details must be match with your ID (ID card , Passport ,Driving license ) 
+                           that will be require during check-in. --->
+                           5 Adults 
+                         </span>
+                         <span class="badge rounded-pill bg-light text-dark text-wrap">
+                           4 Childrens
+                         </span>
+                         
+                  </div>
               <div class="Rating mb-4">
                 <h6 class="mb-1">Rating</h6>
                 <span class="badge rounded-pill bg-light">
@@ -231,7 +255,7 @@
                 2 Sofa
               </span>
           </div>
-          <div class="facilities mb-4">
+         <div class="facilities mb-4">
             <h6 class="mb-1">Facilities</h6>
             <span class="badge rounded-pill bg-light text-dark text-wrap">
                 <!--   Note: Your details must be match with your ID (ID card , Passport ,Driving license ) 
@@ -248,6 +272,18 @@
                      Room heater
                    </span>
           </div>
+          <div class="guests mb-4">
+                    <h6 class="mb-1">Guests</h6>
+                    <span class="badge rounded-pill bg-light text-dark text-wrap">
+                        <!--   Note: Your details must be match with your ID (ID card , Passport ,Driving license ) 
+                           that will be require during check-in. --->
+                           5 Adults 
+                         </span>
+                         <span class="badge rounded-pill bg-light text-dark text-wrap">
+                           4 Childrens
+                         </span>
+                         
+                  </div>
           <div class="Rating mb-4">
             <h6 class="mb-1">Rating</h6>
             <span class="badge rounded-pill bg-light">
